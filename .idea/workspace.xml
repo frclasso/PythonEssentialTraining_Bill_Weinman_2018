@@ -7,14 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8558eb71-a5ec-43f7-bb9f-4624f0e46d66" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chap13-Built-in-Functions/built-in-functions-enumerate.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chap13-Built-in-Functions/built-in-functions-working.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chap13-Built-in-Functions/built-in-functions-working2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chap13-Built-in-Functions/is-instance-working.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chap14-modules/modules-working.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chap14-modules/modules-working2-random.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chap14-modules/modules-working3-date-time.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/blocks.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/blocks.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/blocks2.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/blocks2.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/blocks3.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/blocks3.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/classWorking.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/classWorking.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/fibonacci.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/fibonacci.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/forLoop.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/forLoop.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/function.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/function.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/function2.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/function2.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/helloWorld.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/helloWorld.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/pythonVersion.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/pythonVersion.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/pythonVersion2.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/pythonVersion2.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/pythonVersion3.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/pythonVersion3.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/pythonVersion4.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/pythonVersion4.py" />
+      <change beforePath="$PROJECT_DIR$/Chap2-language-overview/whileLoop.py" afterPath="$PROJECT_DIR$/Chap02-language-overview/whileLoop.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +35,7 @@
       <file leaf-file-name="modules-working3-date-time.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chap14-modules/modules-working3-date-time.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="77">
               <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
               <folding />
             </state>
@@ -136,6 +143,11 @@
             <path>
               <item name="PythonEssentialTraining_Bill_Weinman_2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonEssentialTraining_Bill_Weinman_2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonEssentialTraining_Bill_Weinman_2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonEssentialTraining_Bill_Weinman_2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap14-modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -321,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521826866248</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="'sixfth commit'">
+      <created>1522352790692</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522352790693</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -353,7 +372,8 @@
     <MESSAGE value="'third commit'" />
     <MESSAGE value="'fourth commit'" />
     <MESSAGE value="'fifth commit'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'fifth commit'" />
+    <MESSAGE value="'sixfth commit'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'sixfth commit'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,14 +423,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chap2-language-overview/fibonacci.py">
+    <entry file="file://$PROJECT_DIR$/Chap02-language-overview/fibonacci.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chap2-language-overview/classWorking.py">
+    <entry file="file://$PROJECT_DIR$/Chap02-language-overview/classWorking.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -753,7 +773,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chap14-modules/modules-working3-date-time.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="77">
           <caret line="8" column="45" lean-forward="true" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
           <folding />
         </state>
